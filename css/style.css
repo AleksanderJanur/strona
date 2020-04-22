@@ -373,11 +373,7 @@ ul {
 /**************** common css end ****************/
 /**************** extend css start ****************/
 /* line 29, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_extends.scss */
-.banner_part:after, .breadcrumb:after {
-  background: -webkit-linear-gradient(5deg, #f73347 0%, rgba(18, 1, 248, 0.2) 100%);
-  background: -webkit-linear-gradient(5deg, #f73347 0%, rgba(18, 1, 248, 0.2) 100%);
-  background: -ms-linear-gradient(5deg, #f73347 0%, rgba(18, 1, 248, 0.2) 100%);
-}
+
 
 /**************** extend css start ****************/
 /**************** menu part css start ****************/
@@ -676,7 +672,7 @@ ul {
   display: flex;
   align-items: center;
   position: relative;
-  background-image: url(../img/banner_overlay.png);
+  background-image: url(../img/nasze/main.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 1;
@@ -1518,10 +1514,13 @@ ul {
     margin-bottom: 15px;
   }
 }
-
+.weigter{
+  font-family: serif !important;
+}
 /* line 101, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_project.scss */
 .portfolio_area .portfolio_box .short_info {
   position: absolute;
+  border: 1px dashed #eee;
   background-color: #fff;
   bottom: 0;
   padding: 8px 20px;
@@ -3124,7 +3123,7 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
-  height: 200px;
+  height: 350px;
 }
 
 /* line 449, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_elements.scss */
