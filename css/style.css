@@ -373,11 +373,7 @@ ul {
 /**************** common css end ****************/
 /**************** extend css start ****************/
 /* line 29, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_extends.scss */
-.banner_part:after, .breadcrumb:after {
-  background: -webkit-linear-gradient(5deg, #f73347 0%, rgba(18, 1, 248, 0.2) 100%);
-  background: -webkit-linear-gradient(5deg, #f73347 0%, rgba(18, 1, 248, 0.2) 100%);
-  background: -ms-linear-gradient(5deg, #f73347 0%, rgba(18, 1, 248, 0.2) 100%);
-}
+
 
 /**************** extend css start ****************/
 /**************** menu part css start ****************/
@@ -676,7 +672,7 @@ ul {
   display: flex;
   align-items: center;
   position: relative;
-  background-image: url(../img/banner_overlay.png);
+  background-image: url(../img/nasze/main.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 1;
@@ -1518,10 +1514,13 @@ ul {
     margin-bottom: 15px;
   }
 }
-
+.weigter{
+  font-family: serif !important;
+}
 /* line 101, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_project.scss */
 .portfolio_area .portfolio_box .short_info {
   position: absolute;
+  border: 1px dashed #eee;
   background-color: #fff;
   bottom: 0;
   padding: 8px 20px;
@@ -3124,7 +3123,7 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
-  height: 200px;
+  height: 350px;
 }
 
 /* line 449, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_elements.scss */
@@ -5911,6 +5910,131 @@ h1, h2, h3, h4, h5, h6 {
 /* line 118, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_contact.scss */
 .modal-message .modal-dialog .modal-content .modal-header p {
   display: block;
+}
+.pricing .box {
+  padding: 20px;
+  background: #f9f9f9;
+  text-align: center;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #f9f9f9;
+  border: 1px solid #444;
+  height: 100%;
+  width: 100%;
+}
+}
+
+.pricing .box h2 {
+  font-weight: 400;
+  padding: 15px;
+  margin-top: 10px;
+  font-size: 24px;
+  font-weight: 600;
+  color: #353535;
+}
+
+.pricing .box h3 {
+  font-weight: 400;
+  padding: 15px;
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #353535;
+}
+
+.pricing .box h4 {
+  font-size: 24px;
+  color: #8fc04e;
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 20px;
+}
+
+.pricing .box h4 sup {
+  font-size: 20px;
+  top: -15px;
+  left: -3px;
+}
+
+.pricing .box h4 span {
+  color: #bababa;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.pricing .box ul {
+  padding: 0;
+  list-style: none;
+  color: #353535;
+  text-align: center;
+  line-height: 20px;
+  font-size: 14px;
+}
+
+.pricing .box ul li {
+  padding-bottom: 16px;
+}
+
+.pricing .box ul i {
+  color: #8fc04e;
+  font-size: 18px;
+  padding-right: 4px;
+}
+
+.pricing .box ul .na {
+  color: #ccc;
+  text-decoration: line-through;
+}
+
+.pricing .box .btn-wrap {
+  padding: 15px;
+  text-align: center;
+}
+
+.pricing .box .btn-buy {
+  display: inline-block;
+  padding: 10px 40px 12px 40px;
+  border-radius: 50px;
+  border: 2px solid #8fc04e;
+  color: #8fc04e;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.pricing .box .btn-buy:hover {
+  background: #8fc04e;
+  color: #fff;
+}
+
+.pricing .recommended {
+  border-color: #8fc04e;
+}
+
+.pricing .recommended .btn-buy {
+  background: #8fc04e;
+  color: #fff;
+}
+
+.pricing .recommended .btn-buy:hover {
+  background: #7aa93c;
+  border-color: #7aa93c;
+}
+
+.pricing .recommended-badge {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  font-size: 13px;
+  padding: 3px 25px 6px 25px;
+  background: #8fc04e;
+  color: #fff;
+  border-radius: 0 0 25px 25px;
 }
 
 /*# sourceMappingURL=style.css.map */
