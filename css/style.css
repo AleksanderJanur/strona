@@ -69,28 +69,28 @@ input:hover, input:focus {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
-    padding-top: 80px;
+    padding-top: 180px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
-    padding-top: 70px;
+    padding-top: 180px;
   }
 }
 
 @media (max-width: 576px) {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
-    padding-top: 100px;
+    padding-top: 180px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
-    padding-top: 100px;
+    padding-top: 180px;
   }
 }
 
@@ -102,28 +102,28 @@ input:hover, input:focus {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 51, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_bottom {
-    padding-bottom: 80px;
+    padding-bottom: 180px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 51, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_bottom {
-    padding-bottom: 70px;
+    padding-bottom: 180px;
   }
 }
 
 @media (max-width: 576px) {
   /* line 51, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_bottom {
-    padding-bottom: 70px;
+    padding-bottom: 180px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 51, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_bottom {
-    padding-bottom: 70px;
+    padding-bottom: 180px;
   }
 }
 
