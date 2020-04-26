@@ -32,12 +32,14 @@ input:hover, input:focus {
 
 .section-padding {
   padding: 180px 0px;
+  margin-top: 50px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
     padding: 180px 0px;
+    margin-top: 50px;
   }
 }
 
@@ -45,6 +47,7 @@ input:hover, input:focus {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
     padding: 180px 0px;
+    margin-top: 50px;
   }
 }
 
@@ -52,6 +55,7 @@ input:hover, input:focus {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
     padding: 180px 0px;
+    margin-top: 50px;
   }
 }
 
@@ -59,18 +63,21 @@ input:hover, input:focus {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
     padding: 180px 0px;
+    margin-top: 50px;
   }
 }
 
 /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
 .padding_top {
   padding-top: 180px;
+  margin-top: 50px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
     padding-top: 180px;
+    margin-top: 50px;
   }
 }
 
@@ -78,6 +85,7 @@ input:hover, input:focus {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
     padding-top: 180px;
+    margin-top: 50px;
   }
 }
 
@@ -85,6 +93,7 @@ input:hover, input:focus {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
     padding-top: 220px;
+    margin-top: 50px;
   }
 }
 
@@ -92,6 +101,7 @@ input:hover, input:focus {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
     padding-top: 180px;
+    margin-top: 50px;
   }
 }
 
