@@ -57,7 +57,7 @@ input:hover, input:focus {
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
-    padding: 70px 0px;
+    padding: 100px 0px;
   }
 }
 
@@ -83,14 +83,14 @@ input:hover, input:focus {
 @media (max-width: 576px) {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
-    padding-top: 70px;
+    padding-top: 100px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 36, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .padding_top {
-    padding-top: 70px;
+    padding-top: 100px;
   }
 }
 
