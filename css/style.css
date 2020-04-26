@@ -36,28 +36,28 @@ input:hover, input:focus {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
-    padding: 80px 0px;
+    padding: 180px 0px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
-    padding: 70px 0px;
+    padding: 1800px 0px;
   }
 }
 
 @media (max-width: 576px) {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
-    padding: 70px 0px;
+    padding: 180px 0px;
   }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 21, ../../01 cl html template/New folder/May 2019/178 Real Estate/Real Estate Html/sass/_common.scss */
   .section-padding {
-    padding: 100px 0px;
+    padding: 180px 0px;
   }
 }
 
