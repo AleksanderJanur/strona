@@ -5933,7 +5933,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 10px;
   font-size: 24px;
   font-weight: 600;
-  color: #353535;
+  color: #8fc04e;
 }
 
 .pricing .box h3 {
@@ -5942,7 +5942,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 15px;
   font-size: 18px;
   font-weight: 600;
-  color: #353535;
+  color: #8fc04e;
 }
 
 .pricing .box h4 {
@@ -5960,7 +5960,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .pricing .box h4 span {
-  color: #bababa;
+  color: #8fc04e;
   font-size: 16px;
   font-weight: 300;
 }
